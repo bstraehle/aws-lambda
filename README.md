@@ -1,4 +1,4 @@
-Install AWS Toolkit for Visual Studio: https://aws.amazon.com/visualstudio/  
+<a href="https://aws.amazon.com/visualstudio/">Install AWS Toolkit for Visual Studio</a>  
 
 Open Visual Studio and create new project using template "AWS Lambda Project (.NET Core - C#)"  
 
