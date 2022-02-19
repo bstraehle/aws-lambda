@@ -6,4 +6,4 @@ Implement function handler
 
 Open AWS Explorer, create new Lambda function, and upload it  
 
-Login to the AWS Console, go to Lambda, Functions, select function and test it  
+Login to the AWS Console, go to Lambda, functions, select function and test it  
